@@ -5,11 +5,15 @@ HTML
 CSS
 
 controle de versão
-GITHUB
+foi creado um repositorio GITHUB
 
 os desafios esperados
 Primeiro Projeito para muitos dos envolvidos em nosso equipe.
 
 as soluções propostas
 
-aplicação das cores e estilos.
+O cliente definiu um conjunto de cores que deve ser aplicado no design do site. Essas cores são:
+Pêssego Escuro (#F29C8F)
+Pêssego Claro (#F5E1E1)
+Azul Acinzentado (#53687E)
+Cinza Claro (#D3D3D3)
