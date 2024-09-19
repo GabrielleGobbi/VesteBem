@@ -10,9 +10,11 @@ img{
     height: 200px;
 }
 
-body{
-    color: bisque;
+body {
+    background-color: #F5E1E1;
+    font-family: Arial, sans-serif;
 }
+
 
 button{
     
