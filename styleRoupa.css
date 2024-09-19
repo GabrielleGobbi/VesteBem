@@ -1,0 +1,23 @@
+.image_1, .image_2{
+    background-color: blue ;
+    width: 200px; 
+    height: 200px;   
+}
+
+img{
+    background-color: blue ;
+    width: 200px; 
+    height: 200px;
+}
+
+body{
+    color: bisque;
+}
+
+button{
+    
+}
+
+table{
+    display: inline-block
+}
